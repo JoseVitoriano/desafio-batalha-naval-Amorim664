@@ -5,6 +5,7 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 // DEFINIÇÃO DO TABULEIRO
+// PROJETO DE CRIAÇÃO DE JOGO DE TABULEIRO
 
 void tabuleiro (int matriz[10][10], int valor) {
    for (int i = 0; i < valor; i++) {
